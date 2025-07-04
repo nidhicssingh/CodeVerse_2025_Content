@@ -1,0 +1,13 @@
+Q1: What is the capital of France?
+Your Answer: London
+Correct Answer: Paris
+
+Q2: Which data type is immutable in Python?
+Your Answer: Dictionary
+Correct Answer: Tuple
+
+Q3: What does CPU stand for?
+Your Answer: Central Power Unit
+Correct Answer: Central Processing Unit
+
+Final Score: 0/3
