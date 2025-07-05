@@ -1,0 +1,9 @@
+Q1: 1. Which data structure uses LIFO (Last In, First Out) principle?
+Your Answer: Stack
+Correct Answer: Stack
+
+Q2: What is square root of 64?
+Your Answer: 10
+Correct Answer: 8
+
+Final Score: 1/2
