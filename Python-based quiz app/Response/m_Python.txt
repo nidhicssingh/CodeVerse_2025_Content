@@ -1,9 +1,0 @@
-Q1: What is the correct way to create a function in Python?
-Your Answer: def myFunc:
-Correct Answer: def myFunc():
-
-Q2: Which of these is a correct variable name in Python?
-Your Answer: value-1
-Correct Answer: 8
-
-Final Score: 0/2
