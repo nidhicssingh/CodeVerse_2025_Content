@@ -3,8 +3,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 #Spotify developer account: https://developer.spotify.com
 #goto dashboard create app
 # Replace these with your own credentials
-CLIENT_ID = ""
-CLIENT_SECRET = ""
+CLIENT_ID = "SPOTIFY_CLIENT_ID"
+CLIENT_SECRET = "SPOTIFY_CLIENT_SECRET"
 
 # Auth Manager
 auth_manager = SpotifyClientCredentials(client_id=CLIENT_ID, client_secret=CLIENT_SECRET)
